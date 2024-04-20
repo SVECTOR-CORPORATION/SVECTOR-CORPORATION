@@ -2,8 +2,6 @@
 <br>
 <img src="SVECTOR.jpg" width="450px"></img>
 <br>
-SVECTOR
-<br>
 SVECTOR-CORPORATION is a cutting-edge software development company specialized in Artificial Intelligence (AI), Machine Learning (ML), and a wide range of software solutions. We are dedicated to pushing the boundaries of technology and delivering innovative products that transform industries.
 
 ## Our Services 🌟
@@ -27,14 +25,14 @@ At SVECTOR-CORPORATION, we pride ourselves on our diverse expertise and deep kno
 
 ## Join Our Team 🚀
 
-We are always on the lookout for talented and passionate individuals to join our dynamic team. If you are a skilled developer, data scientist, or tech enthusiast, visit our [Careers page](https://svector-corporation.com/careers) to explore exciting opportunities.
+We are always on the lookout for talented and passionate individuals to join our dynamic team. If you are a skilled developer, data scientist, or tech enthusiast, visit our website <a href="=https://www.svector.co.in/">https://www.svector.co.in/</a>
+to explore exciting opportunities.
 
 ## Contact Us 📞
 
 For more information about our services or to discuss your project requirements, please don't hesitate to reach out:
 
-📧 Email: contact@svector-corporation.com
-🌐 Website: https://svector-corporation.com
-📱 Phone: +1 (123) 456-7890
+📧 Email: support@svector.co.in
+🌐 Website: <a href="=https://www.svector.co.in/">https://www.svector.co.in/</a>
 
 Let's embark on a journey of innovation together! 🌍✨
