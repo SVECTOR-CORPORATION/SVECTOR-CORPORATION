@@ -1,6 +1,6 @@
 <h1>SVECTOR 🚀</h1>
 <br>
-(https://ibb.co/6y00VZ6)
+SVECTOR.jpg
 <br>
 SVECTOR
 <br>
