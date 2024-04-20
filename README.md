@@ -1,6 +1,6 @@
 <h1>SVECTOR 🚀</h1>
 <br>
-<img src="SVECTOR.jpg" width="250px"></img>
+<img src="SVECTOR.jpg" width="450px"></img>
 <br>
 SVECTOR
 <br>
