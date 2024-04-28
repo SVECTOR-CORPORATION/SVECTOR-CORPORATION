@@ -1,6 +1,6 @@
 <h1>SVECTOR 🚀</h1>
 <br>
-<img src="SVECTOR.jpg" width="450px"></img>
+<img src="SVECTOR.jpg" width="450px style="display:block,margin-left:auto,margin-right:auto,border-radius:4rem""></img>
 <br>
 SVECTOR-CORPORATION is a cutting-edge software development company specialized in Artificial Intelligence (AI), Machine Learning (ML), and a wide range of software solutions. We are dedicated to pushing the boundaries of technology and delivering innovative products that transform industries.
 
